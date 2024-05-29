@@ -18,9 +18,13 @@ This portfolio is an ongoing compilation of my data analysis projects, certifica
 ## [Global Wind Power Visualizations and Dashboard](https://public.tableau.com/app/profile/camryn.tidsworth/viz/WindPower_17132720082520/Dashboard1)
 <img width="984" alt="Screenshot 2024-05-13 at 1 54 41 PM" src="https://github.com/CamrynTidsworth/Portfolio/assets/167467192/a4d9babf-3157-41b2-be3b-825a17638893">
 
+## [QGIS Map of Swellendam, South Africa] (https://github.com/CamrynTidsworth/Swellendam-QGIS-Map/blob/a341487420c274dbcf0ff78119a22593413f6b85/README.md)
+<img width="1207" alt="Screenshot 2024-05-29 at 1 11 51 PM" src="https://github.com/CamrynTidsworth/Portfolio/assets/167467192/aae80500-d3dd-485b-b82f-5c69d5bbe667">
+
+
 
 ## SKILLS AND COMPETENCIES
-Tools – Spreadsheets, Tableau, SQL, R, IBM Cognos Analytics
+Tools – Spreadsheets, Tableau, SQL, R, QGIS, IBM Cognos Analytics
 
 Skills – data cleaning and preparation, data analysis, data visualization, qualitative and quantitative research methods, statistical analysis, survey design, report writing, written and oral communication
 
