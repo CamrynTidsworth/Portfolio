@@ -6,6 +6,12 @@ This portfolio is an ongoing compilation of my data analysis projects, certifica
 * **Tableau Public:** https://public.tableau.com/app/profile/camryn.tidsworth/vizzes
 
 ## PROJECTS
+
+## [ArcGIS Online Atlas of Scotland](https://github.com/CamrynTidsworth/ArcGIS_Online_Scotland_Atlas)
+<img width="1273" alt="Screenshot 2024-08-22 at 2 50 09 PM" src="https://github.com/user-attachments/assets/5f3c64fa-eed5-44d1-ac21-0bece30dfb6b">
+
+Tools: ArcGIS Online
+
 ## [Web Scraping and Spatial Analysis of Popular US Natural Sites](https://github.com/CamrynTidsworth/web-scraping-and-spatial-analysis-of-popular-US-natural-sites/tree/main)
 ![US Demographic Data](https://github.com/CamrynTidsworth/Portfolio/assets/167467192/1001e761-feb9-4432-a63d-25451150329f)
 
